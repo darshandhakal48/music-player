@@ -2,8 +2,6 @@
 
 A nice GUI for playing/viewing local media files.
 
-![CleanShot 2024-09-14 at 15 34 26@2x](https://github.com/user-attachments/assets/d1b747a4-bc0e-45fc-9df9-ecdba5fd0115)
-
 ## Getting Started
 
 ```bash
